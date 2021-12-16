@@ -1,0 +1,39 @@
+.CollectionCards {
+  color: white;
+  background-color: #1c1c1e;
+  border-radius: 20px;
+  overflow: hidden;
+  width: 300px;
+  justify-content: space-between;
+  margin-left: 15px;
+  height: 500px;
+}
+.punkImg {
+  width: 100%;
+}
+.ethImg {
+  height: 23px;
+  width: 15px;
+}
+.priceContainer {
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+  object-fit: contain;
+}
+.price {
+  margin-left: 6px;
+  font-weight: 600;
+}
+.details {
+  padding: 20px;
+}
+.name {
+  font-size: 19px;
+  font-weight: 900;
+}
+.id {
+  color: #a1a5b0;
+  font-size: 18px;
+  font-weight: 400;
+}
