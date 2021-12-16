@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e6cb3666.css",
+    "main.js": "/static/js/main.d762e566.js",
+    "static/js/787.fbf6d72d.chunk.js": "/static/js/787.fbf6d72d.chunk.js",
+    "static/media/weth.png": "/static/media/weth.4101f1dacb92484cfd3f.png",
+    "static/media/cryptopunk-logo.png": "/static/media/cryptopunk-logo.8bee49d57faa44bb66f5.png",
+    "index.html": "/index.html",
+    "main.e6cb3666.css.map": "/static/css/main.e6cb3666.css.map",
+    "main.d762e566.js.map": "/static/js/main.d762e566.js.map",
+    "787.fbf6d72d.chunk.js.map": "/static/js/787.fbf6d72d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6cb3666.css",
+    "static/js/main.d762e566.js"
+  ]
+}
