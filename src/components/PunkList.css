@@ -1,9 +1,11 @@
 .punkList {
   display: flex;
   flex-wrap: wrap;
+
   cursor: pointer;
   overflow: scroll;
-  margin-top: 20px;
+  margin: 40px;
+  margin-left: 60px;
 }
 
 .punkList::-webkit-scrollbar {

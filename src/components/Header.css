@@ -67,5 +67,14 @@
   text-align: center;
   padding: 15px 40px;
   border-radius: 50px;
+  text-decoration: none;
   color: black;
+}
+.logInButton:hover {
+  background: linear-gradient(to right, #34ac7a, #29a897);
+}
+.logInButton > a {
+  text-decoration: none;
+  color: black;
+  font-weight: 600;
 }

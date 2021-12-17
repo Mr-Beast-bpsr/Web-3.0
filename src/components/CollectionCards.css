@@ -1,12 +1,19 @@
 .CollectionCards {
   color: white;
-  background-color: #1c1c1e;
   border-radius: 20px;
   overflow: hidden;
-  width: 300px;
+  width: 200px;
   justify-content: space-between;
-  margin-left: 15px;
-  height: 500px;
+  margin-left: 25px;
+  height: 350px;
+  background-color: #a4508b;
+  background-image: linear-gradient(326deg, #a4508b 0%, #5f0a87 74%);
+}
+.allContain {
+  transition: all 2s ease-in-out;
+}
+.allContain :hover {
+  transform: scale(1.2);
 }
 .punkImg {
   width: 100%;

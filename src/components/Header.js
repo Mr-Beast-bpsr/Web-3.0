@@ -30,7 +30,12 @@ const Header = () => {
           <img className="themeSwitchIcon" src={themeSwitch} />
         </div>
       </div>
-      <div className="logInButton">Get In</div>
+
+      <div className="logInButton">
+        <a href="https://cors-anywhere.herokuapp.com/corsdemo" target="_blank">
+          Get In
+        </a>
+      </div>
     </div>
   );
 };

@@ -3,7 +3,6 @@ import CollectionCards from "./CollectionCards";
 import "./PunkList.css";
 const Punklist = ({ punkListData, setSelectedPunk }) => {
   {
-    console.log(setSelectedPunk);
   }
   return (
     <div className="punkList">
@@ -11,7 +10,6 @@ const Punklist = ({ punkListData, setSelectedPunk }) => {
         <div
           onClick={() => {
             setSelectedPunk(punk.token_id);
-            console.log(setSelectedPunk);
           }}
         >
           <CollectionCards
